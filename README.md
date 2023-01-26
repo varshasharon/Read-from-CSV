@@ -24,5 +24,7 @@ print('Row: ',len(f.awes[0]))
 print('Col: ',len(f.axes[1]))
 ```
 ## OUTPUT:
+![csv1](https://user-images.githubusercontent.com/98278161/214897451-56e962c8-ec23-4bd4-9560-deb256a7afe5.jpeg)
+![csv2](https://user-images.githubusercontent.com/98278161/214897517-334dd080-5e48-4dba-aacb-f8635a6cfdae.jpeg)
 
 ## RESULT:
