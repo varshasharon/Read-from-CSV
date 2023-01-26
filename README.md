@@ -28,3 +28,4 @@ print('Col: ',len(f.axes[1]))
 ![csv2](https://user-images.githubusercontent.com/98278161/214897517-334dd080-5e48-4dba-aacb-f8635a6cfdae.jpeg)
 
 ## RESULT:
+Thus, the program is rum successfully.
